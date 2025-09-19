@@ -35,4 +35,5 @@ int main (){
 	printf("The value of pi is %.2f \n ", pi);
 	printf("The profit is Ksh. %.4lf \n" , profit);
 	return 0;  //execution successful
+
 }
